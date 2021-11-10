@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\AD_Optimisation.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\AD_Optimisation.dir/objects.a @CMakeFiles\AD_Optimisation.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\AD_Optimisation.dir/objects.a -Wl,--no-whole-archive  -o AD_Optimisation.exe -Wl,--out-implib,libAD_Optimisation.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\AD_Optimisation.dir\linklibs.rsp

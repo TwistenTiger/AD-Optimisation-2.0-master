@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Robin.Njobo/Desktop/AD Optimisation 2.0/main.cpp
+iostream
+-
+fstream
+C:/Users/Robin.Njobo/Desktop/AD Optimisation 2.0/fstream
+string
+C:/Users/Robin.Njobo/Desktop/AD Optimisation 2.0/string
+
